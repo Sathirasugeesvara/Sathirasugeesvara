@@ -1,51 +1,69 @@
-# 👋 Hi, I'm Sathira Sugeesvara  
+<!-- Profile Header -->
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00BFFF">Sathira Sugeesvara</span>  
+</h1>
 
-💻 I’m a student learning *C Programming, Git, and GitHub*  
-📚 Currently studing at: University of Sri Jayewardhenapura  
-🚀 Interests: Software Development, Problem Solving, Open Source  
+<h3 align="center">
+  💻 Passionate Student | 🌱 Lifelong Learner | 🚀 Future Developer
+</h3>
+
+<p align="center">
+  🎓 <strong>University of Sri Jayewardenepura</strong> <br>
+  📚 Learning C, HTML, CSS, Python, Git & GitHub
+</p>
+
+---
+
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+solving+problems.;Let's+build+something+amazing!+🚀" alt="Typing Animation" />
+</p>
+
+---
+
+### 🧠 About Me
+- 🌱 I’m currently improving my skills in **Algorithms**, **Data Structures**, and **File Handling in C**
+- 💬 Ask me about: C programming, Git basics, and problem-solving approaches  
+- 📚 I enjoy learning through hands-on projects and real-world applications  
+- ⚡ Fun fact: I love building programs that make everyday tasks easier! 
+
+---
 
 ![Profile Banner](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ---
 
-## 🔧 Technologies & Tools
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- Code::Blocks, VS Code  
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode,codeblocks" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Sathira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathiraSugeesvara&show_icons=true&theme=radical)
+### 💼 Tools I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-5C2D91?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SathiraSugeesvara&layout=compact&theme=radical)
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathirasugeesvara&theme=react-dark" />
+</p>
 
 ---
 
-## 🏆 Trophies & Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SathiraSugeesvara&theme=radical)
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:sathirasugeesvara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sathirasugeesvara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/sathira.sugeesvara"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/Sathirasugeesvara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SathiraSugeesvara&theme=radical)
-
----
-
-## 💡 Quote / Motto
-> "Code is like humor. When you have to explain it, it’s bad."  
-> – Cory House
-
----
-
-## 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](sathirasugeesvara@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/KVZV5FS5UK4OC1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14HxzAkDZot/)
-
----
+<h3 align="center">✨ “Code, Learn, and Build Something Amazing Every Day!” ✨</h3>
