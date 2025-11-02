@@ -49,13 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathirasugeesvara&theme=react-dark" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:sathirasugeesvara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -64,6 +57,25 @@
   <a href="https://github.com/Sathirasugeesvara"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+ <a href="https://sathirasugeesvara.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-100000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
 ---
 
 <h3 align="center">✨ “Code, Learn, and Build Something Amazing Every Day!” ✨</h3>
+
+---
+
+
+<p align="center" style="background-color:#000000; padding:30px; border-radius:15px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=💫+Thanks+for+visiting!;⭐+Keep+Coding,+Keep+Creating!;🚀+Follow+me+on+GitHub!">
+  <br>
+  <img src="https://img.shields.io/badge/Made_by_Sathira_Sugeesvara-000000?style=for-the-badge&logo=github&logoColor=00FFFF" />
+</p>
+
+
+---
+
+
+
