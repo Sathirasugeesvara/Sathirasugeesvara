@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">
   👋 Hi, I'm <span style="color:#00BFFF">Sathira Sugeesvara</span>  
 </h1>
@@ -9,12 +8,12 @@
 
 <p align="center">
   🎓 <strong>University of Sri Jayewardenepura</strong> <br>
-  📚 Learning C, HTML, CSS, Python, Git & GitHub
+  📚 Learning C, HTML, CSS, Python, Git & Javascript
 </p>
 
 ---
 
-<!-- Typing SVG Animation -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+solving+problems.;Let's+build+something+amazing!+🚀" alt="Typing Animation" />
 </p>
@@ -35,7 +34,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,Bootstrap,html,css,git,github,vscode,codeblocks" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,mysql" />
 </p>
 
 ---
@@ -44,7 +43,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Code::Blocks-5C2D91?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
