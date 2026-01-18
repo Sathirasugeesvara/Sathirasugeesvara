@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  💻 Passionate Student | 🌱 Lifelong Learner | 🚀 Future Developer
+  💻 Passionate Student | 🌱 Lifelong Learner | 🚀 Editor & Developer 
 </h3>
 
 <p align="center">
   🎓 <strong>University of Sri Jayewardenepura</strong> <br>
-  📚 Learning C, HTML, CSS, Python, Git & Javascript
+  📚 Learning C, HTML, CSS, Python, PHP, MySQL, Git & Javascript
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,php,mysql" />
 </p>
 
 ---
