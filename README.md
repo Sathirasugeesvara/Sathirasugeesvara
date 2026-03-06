@@ -79,14 +79,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sathirasugeesvara/Sathirasugeesvara/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 <p align="center" style="background-color:#000000; padding:30px; border-radius:15px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=💫+Thanks+for+visiting!;⭐+Keep+Coding,+Keep+Creating!;🚀+Follow+me+on+GitHub!">
   <br>
