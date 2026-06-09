@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  💻 Passionate Student | 🌱 Lifelong Learner | 🚀 Editor & Developer
+  Undergraduate | Web Developer | Founder of XenoraLabs
 </h3>
 
 <p align="center">
   🎓 <strong>University of Sri Jayewardenepura</strong> <br>
-  📚 Learning C, HTML, CSS, Python, PHP, MySQL, Git & Javascript
+  📚 Experienced in Java, C, Python, JavaScript, PHP, React, HTML, CSS, MongoDB, MySQL, Object-Oriented Programming (OOP), Data Structures, Git & GitHub.
 </p>
 
 ---
@@ -22,7 +22,6 @@
 ### 🧠 About Me
 
 * 🌱 I’m currently improving my skills in **Algorithms**, **Data Structures**, and **File Handling in C**
-* 💬 Ask me about: C programming, Git basics, and problem-solving approaches
 * 📚 I enjoy learning through hands-on projects and real-world applications
 * ⚡ Fun fact: I love building programs that make everyday tasks easier!
 
@@ -35,7 +34,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,git,github,php,mysql" />
 </p>
 
 ---
@@ -43,9 +42,10 @@
 ### 💼 Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code::Blocks-5C2D91?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/sathirasugeesvara">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/sathira.sugeesvara">
+  <a href="https://www.facebook.com/sathirasugeesvara">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://github.com/Sathirasugeesvara">
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sathirasugeesvara.github.io/My-Portfolio/">
+  <a href="https://sathirasugeesvara.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-100000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
